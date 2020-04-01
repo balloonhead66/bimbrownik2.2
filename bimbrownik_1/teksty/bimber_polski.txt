@@ -1,0 +1,38 @@
+		
+
+		__________
+		||......||
+		----------
+		|	 |
+		|	 |
+		| 	 |
+		| 	 |
+		| 	 |
+		/........\
+	       /.        .\              
+              /.          .\             
+	     /		    \            
+	    /		     \		 
+	   /		      \
+	  |		       |	
+	  |		       |
+	  |--------------------|
+	  |		       |	    
+	  |	 \\\   ///     |
+	  |	  \\\ ///      |
+          |        \\///       |      Witaj bimbrowniku
+	  |	    ///        |         
+	  |	   ///\\       |      Aby wybrać opcje działania,
+	  |	  /// \\\      |      wprowadź odpowiadający jej numer i wciśnij ENTER
+	  |	 ///   \\\     |      Aby wyjść w trakcie gry wciśnij CTRL+C
+          |                    |      
+          |    BIMBER POLSKI   |
+	  |--------------------|
+	  |		       |      Aby rozpocząć grę wybierz 1
+	  |		       |        
+	  |		       |      Aby wyjść wybierz 2 
+	  |		       |
+	  |		       |
+	  |		       |
+	  |		       |
+	   --------------------
